@@ -19,7 +19,6 @@ export default () => {
         //             location: 'Stockholm'
         //         }
         //     });
-        //     consol.log('test2')
         //     setResults(response.data.businesses);
         // } catch (err) {
         //     setErrorMessage('Something went wrong')
